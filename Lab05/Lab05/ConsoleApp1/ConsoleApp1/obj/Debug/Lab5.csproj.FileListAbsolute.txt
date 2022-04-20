@@ -1,0 +1,7 @@
+D:\currentdisk\Download\5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\currentdisk\Download\5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\currentdisk\Download\5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\currentdisk\Download\5\ConsoleApp1\ConsoleApp1\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\currentdisk\Download\5\ConsoleApp1\ConsoleApp1\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\currentdisk\Download\5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\currentdisk\Download\5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
