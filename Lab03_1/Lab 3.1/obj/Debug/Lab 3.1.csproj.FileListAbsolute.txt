@@ -1,0 +1,21 @@
+C:\University\OOP\2 Semestr\Lab 3.1\Lab 3.1\bin\Debug\Lab 3.1.exe.config
+C:\University\OOP\2 Semestr\Lab 3.1\Lab 3.1\bin\Debug\Lab 3.1.exe
+C:\University\OOP\2 Semestr\Lab 3.1\Lab 3.1\bin\Debug\Lab 3.1.pdb
+C:\University\OOP\2 Semestr\Lab 3.1\Lab 3.1\obj\Debug\Lab 3.1.csproj.AssemblyReference.cache
+C:\University\OOP\2 Semestr\Lab 3.1\Lab 3.1\obj\Debug\Lab 3.1.csproj.CoreCompileInputs.cache
+C:\University\OOP\2 Semestr\Lab 3.1\Lab 3.1\obj\Debug\Lab 3.1.exe
+C:\University\OOP\2 Semestr\Lab 3.1\Lab 3.1\obj\Debug\Lab 3.1.pdb
+C:\Users\unman\Desktop\Lab 3.1\Lab 3.1\bin\Debug\Lab 3.1.exe.config
+C:\Users\unman\Desktop\Lab 3.1\Lab 3.1\bin\Debug\Lab 3.1.exe
+C:\Users\unman\Desktop\Lab 3.1\Lab 3.1\bin\Debug\Lab 3.1.pdb
+C:\Users\unman\Desktop\Lab 3.1\Lab 3.1\obj\Debug\Lab 3.1.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\Lab 3.1\Lab 3.1\obj\Debug\Lab 3.1.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\Lab 3.1\Lab 3.1\obj\Debug\Lab 3.1.exe
+C:\Users\unman\Desktop\Lab 3.1\Lab 3.1\obj\Debug\Lab 3.1.pdb
+D:\currentdisk\University\OOP\4 семестр\C#\Lab03_1\Lab 3.1\bin\Debug\Lab 3.1.exe.config
+D:\currentdisk\University\OOP\4 семестр\C#\Lab03_1\Lab 3.1\bin\Debug\Lab 3.1.exe
+D:\currentdisk\University\OOP\4 семестр\C#\Lab03_1\Lab 3.1\bin\Debug\Lab 3.1.pdb
+D:\currentdisk\University\OOP\4 семестр\C#\Lab03_1\Lab 3.1\obj\Debug\Lab 3.1.csproj.AssemblyReference.cache
+D:\currentdisk\University\OOP\4 семестр\C#\Lab03_1\Lab 3.1\obj\Debug\Lab 3.1.csproj.CoreCompileInputs.cache
+D:\currentdisk\University\OOP\4 семестр\C#\Lab03_1\Lab 3.1\obj\Debug\Lab 3.1.exe
+D:\currentdisk\University\OOP\4 семестр\C#\Lab03_1\Lab 3.1\obj\Debug\Lab 3.1.pdb
