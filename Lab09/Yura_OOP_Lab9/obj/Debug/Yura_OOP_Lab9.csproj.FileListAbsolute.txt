@@ -1,0 +1,14 @@
+C:\Users\Oleg\source\repos\Yura_OOP_Lab9\Yura_OOP_Lab9\bin\Debug\Yura_OOP_Lab9.exe.config
+C:\Users\Oleg\source\repos\Yura_OOP_Lab9\Yura_OOP_Lab9\bin\Debug\Yura_OOP_Lab9.exe
+C:\Users\Oleg\source\repos\Yura_OOP_Lab9\Yura_OOP_Lab9\bin\Debug\Yura_OOP_Lab9.pdb
+C:\Users\Oleg\source\repos\Yura_OOP_Lab9\Yura_OOP_Lab9\obj\Debug\Yura_OOP_Lab9.csprojAssemblyReference.cache
+C:\Users\Oleg\source\repos\Yura_OOP_Lab9\Yura_OOP_Lab9\obj\Debug\Yura_OOP_Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\Yura_OOP_Lab9\Yura_OOP_Lab9\obj\Debug\Yura_OOP_Lab9.exe
+C:\Users\Oleg\source\repos\Yura_OOP_Lab9\Yura_OOP_Lab9\obj\Debug\Yura_OOP_Lab9.pdb
+D:\currentdisk\University\OOP\4 семестр\C#\Lab09\Yura_OOP_Lab9\bin\Debug\Yura_OOP_Lab9.exe.config
+D:\currentdisk\University\OOP\4 семестр\C#\Lab09\Yura_OOP_Lab9\bin\Debug\Yura_OOP_Lab9.exe
+D:\currentdisk\University\OOP\4 семестр\C#\Lab09\Yura_OOP_Lab9\bin\Debug\Yura_OOP_Lab9.pdb
+D:\currentdisk\University\OOP\4 семестр\C#\Lab09\Yura_OOP_Lab9\obj\Debug\Yura_OOP_Lab9.csproj.AssemblyReference.cache
+D:\currentdisk\University\OOP\4 семестр\C#\Lab09\Yura_OOP_Lab9\obj\Debug\Yura_OOP_Lab9.csproj.CoreCompileInputs.cache
+D:\currentdisk\University\OOP\4 семестр\C#\Lab09\Yura_OOP_Lab9\obj\Debug\Yura_OOP_Lab9.exe
+D:\currentdisk\University\OOP\4 семестр\C#\Lab09\Yura_OOP_Lab9\obj\Debug\Yura_OOP_Lab9.pdb
