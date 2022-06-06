@@ -1,0 +1,15 @@
+C:\University\OOP\2 Semestr\Lab 7\Lab 7\bin\Debug\Lab 7.exe.config
+C:\University\OOP\2 Semestr\Lab 7\Lab 7\bin\Debug\Lab 7.exe
+C:\University\OOP\2 Semestr\Lab 7\Lab 7\bin\Debug\Lab 7.pdb
+C:\University\OOP\2 Semestr\Lab 7\Lab 7\obj\Debug\Lab 7.csproj.AssemblyReference.cache
+C:\University\OOP\2 Semestr\Lab 7\Lab 7\obj\Debug\Lab 7.csproj.SuggestedBindingRedirects.cache
+C:\University\OOP\2 Semestr\Lab 7\Lab 7\obj\Debug\Lab 7.csproj.CoreCompileInputs.cache
+C:\University\OOP\2 Semestr\Lab 7\Lab 7\obj\Debug\Lab 7.exe
+C:\University\OOP\2 Semestr\Lab 7\Lab 7\obj\Debug\Lab 7.pdb
+C:\Users\unman\Desktop\Lab 7\Lab 7\bin\Debug\Lab 7.exe.config
+C:\Users\unman\Desktop\Lab 7\Lab 7\bin\Debug\Lab 7.exe
+C:\Users\unman\Desktop\Lab 7\Lab 7\bin\Debug\Lab 7.pdb
+C:\Users\unman\Desktop\Lab 7\Lab 7\obj\Debug\Lab 7.csproj.AssemblyReference.cache
+C:\Users\unman\Desktop\Lab 7\Lab 7\obj\Debug\Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\unman\Desktop\Lab 7\Lab 7\obj\Debug\Lab 7.exe
+C:\Users\unman\Desktop\Lab 7\Lab 7\obj\Debug\Lab 7.pdb
